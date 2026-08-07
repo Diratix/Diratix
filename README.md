@@ -10,8 +10,8 @@
 ### 👨‍💻 O mnie
 
 - 🎓 **Edukacja:** Student Informatyki
-- 📍 **Lokalizacja:** Busko-Zdrój, Polska
-- 🎮 **Zainteresowania:** Cyberbezpieczeństwo, GameDev oraz Web Development
+- 📍 **Lokalizacja:** Rzeszów, Polska
+- 🎮 **Zainteresowania:** Cyberbezpieczeństwo, GameDev oraz Backend Development
 - 🔒 **TryHackMe:** Rozwijam swoje umiejętności z zakresu bezpieczeństwa IT
 
 ---
